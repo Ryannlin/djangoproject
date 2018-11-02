@@ -1,0 +1,2 @@
+# djangoproject
+personal_project
